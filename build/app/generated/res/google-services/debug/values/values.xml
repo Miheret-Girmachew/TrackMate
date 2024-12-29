@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">330700524167</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4cq87av60BMYn7PMW5ua03yIrcJH6xpY</string>
+    <string name="google_app_id" translatable="false">1:330700524167:android:ba0eb6f26be780b1470622</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4cq87av60BMYn7PMW5ua03yIrcJH6xpY</string>
+    <string name="google_storage_bucket" translatable="false">trackmate-7313a.firebasestorage.app</string>
+    <string name="project_id" translatable="false">trackmate-7313a</string>
+</resources>
